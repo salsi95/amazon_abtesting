@@ -1,3 +1,5 @@
 proyecto_ab_amazon/
 
+__pycache__/
+
 .DS_Store
